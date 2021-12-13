@@ -330,6 +330,7 @@
     <None Include="Properties\PublishProfiles\FolderProfile1.pubxml" />
     <None Include="Properties\PublishProfiles\FTPProfile.pubxml" />
     <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\ynotnftforum - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-2.1.4.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
